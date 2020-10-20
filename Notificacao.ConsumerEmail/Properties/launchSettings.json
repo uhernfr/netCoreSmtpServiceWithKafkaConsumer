@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Notificacao.ConsumerEmail": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "local"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
